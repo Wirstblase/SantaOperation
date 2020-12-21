@@ -9,4 +9,4 @@ The "LETTERMULTIPLICATOR.py" is going to get an emergency update soon (tonight) 
 
 WARNING!
 Before running the lettercopier.py please check the start and end of each file and delete any EXTRA "n*r=number" that is not associated to any letter
-otherwise the whole dataset will be compromised
+otherwise the whole dataset will be compromised.
